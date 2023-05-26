@@ -1,10 +1,25 @@
 {
   "name": "ocn-vue-components",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.4",
   "type": "module",
+  "description": "A collection of Vue 3 components with @vorms/core",
   "files": [
     "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olcan25/ocn-vue-components.git"
+  },
+  "author": "Olcan ",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "vue3",
+    "vue3-components",
+    "vue3-ui",
+    "vue3-library",
+    "vue3-forms"
   ],
   "main": "./dist/ocn-vue-components.umd.js",
   "module": "./dist/ocn-vue-components.es.js",
